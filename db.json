@@ -1,0 +1,83 @@
+{
+ "routes":[
+   {
+     "id": 1,
+     "route": [57.9873,15.4519],
+     "name":"Pośród gór",
+     "length": 950,
+     "description":"Droga w samym sercu gór",
+     "type": "chodzenie",
+     "image_url":"https://media.fshoq.com/images/289/man-in-the-wild-among-nature-river-and-mountains-289-small.jpg",
+     "best_lap": [1661126400000, 786]
+   },
+  {
+     "id": 2,
+     "route": [50.9873,15.4519],
+     "name":"Jazda rowerem",
+     "length": 1950,
+     "description":"W lesie",
+     "type": "rowerowa",
+     "image_url":"https://i.ytimg.com/vi/VUj6lf6myAA/maxresdefault.jpg",
+     "best_lap": [1660094578000, 786]
+   },
+  {
+     "id": 3,
+     "route": [50.0,15.9],
+     "name":"Widok gór",
+     "length": 5500,
+     "description":"Wspaniała droga w lesie i górach",
+     "type": "chodzenie",
+     "image_url":"https://ocdn.eu/pulscms-transforms/1/bvsk9kqTURBXy9lOWFiNjcwMGRhN2UxMzlhYTc5NjNiMDE4NjdjYWQwOC5qcGVnkpUCzQPAAMLDlQIAzQPAwsOBoTAB",
+     "best_lap": [1660000578999, 786]
+   },
+   {
+    "id": 4,
+    "route": [58.7822,34.6782],
+    "name":"Chodzienie pośród wieżowców",
+    "length": 9500,
+    "description":"Droga w samym sercu Warszawy",
+    "type": "chodzenie",
+    "image_url":"https://ocdn.eu/pulscms-transforms/1/AYbk9kpTURBXy80ZDRhODYwMDFhYzI0YjEyMTczMGUwNjcxN2QxOWUxZC5qcGeTlQMAzKLNGg3NDqeTBc0EsM0CpJMJpmU3OWVlZgaBoTAB/warszawa-miasto-w-ktorym-mozna-sie-zakochac.jpg",
+    "best_lap": [1661126400023, 786]
+  },
+ {
+    "id":5,
+    "route": [50.7822,15.9801],
+    "name":"Jazda rowerem w górach",
+    "length": 1952,
+    "description":"Wspaniała droga z fantastycznymi widokami",
+    "type": "rowerowa",
+    "image_url":"https://www.bikesalon.pl/upload/galleries/blog/rowery-gorskie-0420-blog-1586171197.jpg",
+    "best_lap": [1660089578000, 786]
+  },
+ {
+    "id":6,
+    "route": [50.009,15.85],
+    "name":"Widok na morze",
+    "length": 6700,
+    "description":"Wspaniała droga z widokiem na morze",
+    "type": "chodzenie",
+    "image_url":"https://jaroslawiec.pl/storage/news/internal/YKXCwFZtnTQvlIbq7X4gpyO1JrBnr0AGoAmlqAvq.jpeg",
+    "best_lap": [1660112578999, 786]
+  }
+  ],
+  
+  "users":[
+    {
+      "id": 1,
+      "nick": "greatwalker",
+      "last_time":[
+        {
+         "route_id":1,
+         "time":980,
+         "date":1661004578000
+        },
+        {
+         "route_id":2,
+         "time":3982,
+         "date":1661594578000
+        }
+       ]
+    }
+   ]
+}
